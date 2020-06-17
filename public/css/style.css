@@ -1,0 +1,8 @@
+.main-image {
+	max-width: 640px;
+	max-height: 480px;
+}
+
+.bg-transparent-half {
+	background: rgba(0,0,0,0.5);
+}
